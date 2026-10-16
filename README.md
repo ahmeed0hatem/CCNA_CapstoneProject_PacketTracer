@@ -40,7 +40,7 @@ A Cisco Packet Tracer enterprise network featuring HQ and branch connectivity, V
 - Guest ACL restricts access to the internal application server while permitting intended internet access
 - Switch hardening: edge-port protections, unused-port shutdown, port security, and DHCP Snooping
 - SSH for device management
-
+- Websites for Both Internet and Intranet of the company
 ## Validation
 Core routing, DHCP/DNS, website access, PAT, and Guest ACL behavior were tested in Packet Tracer.
 
